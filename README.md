@@ -2,7 +2,7 @@
 - 👀 I’m interested in Puzzles and subject research
 - 🌱 I’m currently learning Games Programming
 - 💞️ I’m looking to collaborate on Student Projects in the near future
-- 📫 How to reach me Through My student email 
+- 📫 How to reach me Through My student email @r020466l@student.staffs.ac.uk
 
 <!---
 TyRob03/TyRob03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
